@@ -1,2 +1,2 @@
 buildpacks:clear
-war:deploy target/routeplanner.war
+war:deploy target/jt.war
