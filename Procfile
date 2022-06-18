@@ -1,1 +1,2 @@
-web: java -jar target/jt-0.0.1-SNAPSHOT.war
+buildpacks:clear
+war:deploy target/routeplanner.war
