@@ -1,2 +1,1 @@
-buildpacks:clear
-war:deploy target/jt.war
+web: java -jar target/jt.war
